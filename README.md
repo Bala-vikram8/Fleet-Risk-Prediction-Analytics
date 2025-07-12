@@ -66,7 +66,8 @@ I’m looking for a full-time opportunity in data analysis or business analytics
 
 - [Tableau Public Dashboard](https://public.tableau.com/views/final_draft_17521888218510/FleetInsightsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
+## 📽️ Project Demo
+🎥 [Watch the short video presentation here](https://youtu.be/FNopMR_OZs8?si=W45Mgcu_6c8k5vNW)
 
 
 
